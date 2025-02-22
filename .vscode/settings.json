@@ -8,5 +8,7 @@
     "**/legacy": true,
     "**/.venv": true,
 
-}
+},
+"github.copilot.editor.enableAutoCompletions": false,
+"cody.suggestions.mode": "off",
 }
